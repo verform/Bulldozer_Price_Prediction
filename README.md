@@ -3,7 +3,7 @@ This is a time-series regression problem
 
 **Steps I followed:**
 * Exploratory Data Analysis
-* Feature Enginnering
+* Feature Engineering
 * Encoding(converting non-numeric values to numeric)
 * Imputing(Filling missing values)
 * Modelling
