@@ -8,7 +8,7 @@ This is a time-series regression problem
 * Imputing(Filling missing values)
 * Modelling
 * Evaluation
-* Hyperparamete Tuning
+* Hyperparameter Tuning
 * Feature Importance
 
 **Problem Definition**
